@@ -1,4 +1,4 @@
-def percentage_of(part, whole):
+def percentage_of(part, whol):
     if whole == 0:
         return 0
     return (part / whole) * 100
